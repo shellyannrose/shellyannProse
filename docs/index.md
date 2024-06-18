@@ -1,5 +1,7 @@
 # Senior Technical Writer
 
+![Humming bird](HummingBird.jpg)
+
 What I’ve always liked about my job is that I get to learn new things each day. It keeps my mind active and challenged and makes life interesting. Then I get to share what I learn so others can have that same positive experience. To me, good writing is really about two minds having a chat. My job is to actively listen to what my audience needs. Then provide clear, simple, readable prose in response. Doing that with complex issues always gives me such a rush!
 
 In search of a new challenge, I took the [API writing class](https://www.pce.uw.edu/specializations/api-documentation) at the University of Washington.  To learn more about that adventure, read on.
@@ -24,7 +26,7 @@ I have used JSON before, but this was my first time designing my own JSON databa
 
 ### Visual Studio Code
 
-For the first time, I used VS Code to create content for the API service. This was also my first use of Markdown. I added the markdownlint plug-in to point out errors in the markup. I created Markdown files for
+For the first time, I used VS Code to create content for the API service. This was also my first use of Markdown. I added the markdownlint plug-in to point out errors in the markup. Some of the topics I used Markdown to create include:
 
 * [Get started](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/tutorials/tutorial-get-started.html)
 * [Tutorials](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/tutorials/tutorial-add-new-guest.html)
@@ -32,7 +34,7 @@ For the first time, I used VS Code to create content for the API service. This w
 
 ### Postman
 
-This class was my first exposure to this API testing tool. I tested code samples for the following create, read, update, and delete (CRUD) methods:
+This class was my first exposure to this API testing tool. I tested code samples for the create, read, update, and delete (CRUD) methods. Some examples include:
 
 * [POST](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/api/prep_check_CRUDref/create-prep-check-task.html)
 * [READ](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/api/users_CRUDref/get-host-by-last-name.html)
