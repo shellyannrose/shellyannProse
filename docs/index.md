@@ -26,7 +26,7 @@ I have used JSON before, but this was my first time designing my own JSON databa
 
 ### Visual Studio Code
 
-For the first time, I used VS Code to create content for the API service. This was also my first use of Markdown. I added the markdownlint plug-in to point out errors in the markup. I created Markdown files for
+For the first time, I used VS Code to create content for the API service. This was also my first use of Markdown. I added the markdownlint plug-in to point out errors in the markup. Some of the topics I used Markdown to create include:
 
 * [Get started](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/tutorials/tutorial-get-started.html)
 * [Tutorials](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/tutorials/tutorial-add-new-guest.html)
@@ -34,7 +34,7 @@ For the first time, I used VS Code to create content for the API service. This w
 
 ### Postman
 
-This class was my first exposure to this API testing tool. I tested code samples for the following create, read, update, and delete (CRUD) methods:
+This class was my first exposure to this API testing tool. I tested code samples for the create, read, update, and delete (CRUD) methods. Some examples include:
 
 * [POST](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/api/prep_check_CRUDref/create-prep-check-task.html)
 * [READ](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/api/users_CRUDref/get-host-by-last-name.html)
