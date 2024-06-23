@@ -1,10 +1,11 @@
-# Senior Technical Writer
+#
 
 ![Humming bird](HummingBird.jpg)
 
+## About me
 What I have always liked about my job is that I get to learn new things each day. It keeps my mind active and challenged and makes life interesting. Then I get to share what I learn so others can have that same positive experience. To me, good writing is really about two minds having a chat. My job is to actively listen to what my audience needs. Then provide clear, simple, readable prose in response. Doing that with complex issues always gives me such a rush!
 
-In search of a new challenge, I took the [API writing class](https://www.pce.uw.edu/specializations/api-documentation) at the University of Washington.  To learn more about that adventure, read on.
+In search of a new challenge, I took the [API writing class](https://www.pce.uw.edu/specializations/api-documentation) at the University of Washington in Spring 2024.  To learn more about that adventure, read on.
 
 ## API documentation
 
@@ -45,11 +46,11 @@ This class was my first exposure to this API testing tool. I tested code samples
 
 ### Subject matter expert
 
-I worked closely with the subject matter expert from the very start. I asked for input when I needed to change the database. I also asked questions about the resources and their properties.
+I worked closely with the creator of the service, a classmate, who lives in Ireland. She acted as the subject matter expert. I asked for input when I needed to make minor changes to the database she created. I also asked questions about the resources and their properties.
 
 ### Usability testing
 
-Once the content matured, I designed a usability test. The tester was a student who did not know the service. After that, I updated the content to address the tester’s feedback.
+Once the content matured, I designed a usability test. The tester was a different student who did not know the service. After that, I updated the content to address the tester’s feedback.
 
 ### Peer review
 
