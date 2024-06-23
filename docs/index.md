@@ -45,7 +45,7 @@ This class was my first exposure to this API testing tool. I tested code samples
 
 ### Subject matter expert
 
-I worked closely with the creator of the service, a classmate, who lives in Ireland. She acted as the subject matter expert. I asked for input when I needed to make minor changes to the database she created. I also asked questions about the resources and their properties.
+I worked closely with the creator of the service, a classmate, who lives in Ireland. She acted as the subject matter expert. I asked for input when I needed to make minor changes to the database she created. At times I didn’t fully grasp her vision. She kindly replied to my questions about the resources, their properties, and their limits.
 
 ### Usability testing
 
