@@ -1,6 +1,6 @@
-#
+# ![Humming bird](HummingBird.jpg)
 
-![Humming bird](HummingBird.jpg)
+## About me
 
 ## About me
 What I have always liked about my job is that I get to learn new things each day. It keeps my mind active and challenged and makes life interesting. Then I get to share what I learn so others can have that same positive experience. To me, good writing is really about two minds having a chat. My job is to actively listen to what my audience needs. Then provide clear, simple, readable prose in response. Doing that with complex issues always gives me such a rush!
