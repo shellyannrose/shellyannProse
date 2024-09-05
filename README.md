@@ -1,3 +1,3 @@
 # shellyannProse
 
-My portfolio site.
+Shellyann Rose work portfolio site.
