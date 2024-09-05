@@ -1,3 +1,3 @@
 # shellyannProse
 
-Shellyann Rose work portfolio site.
+Shellyann A. Rose work portfolio site.
