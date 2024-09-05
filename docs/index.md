@@ -1,6 +1,6 @@
 # ![Humming bird](HummingBird.jpg)
 
-## About me
+## [About me](https://www.linkedin.com/in/shellyann-rose-235624/)
 
 What I have always loved about my work is that I get to learn new things each day. It keeps my mind active and challenged and makes life interesting. Then I get to share what I learn so others can have that same positive experience. To me, good writing is really about two minds having a chat. My job is to actively listen to what my audience needs. Then provide clear, simple, readable prose in response. Achieving that with complex issues always gives me such a rush!
 
