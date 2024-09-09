@@ -18,6 +18,7 @@ What I have always loved about my work is that I get to learn new things each da
 ### Voice over
 
 My voice over work for the videos that highlight the key improvements that are in the release notes knowledgebase articles.
+
 * [June 2022 KB5014697](https://support.microsoft.com/en-us/topic/june-14-2022-kb5014697-os-build-22000-739-cd3aaa0b-a8da-44a0-a778-dfb6f1d9ea11)
 * [November 2022 KB5019980](https://youtu.be/srJjdxw6Gi0?si=sNkWjCuW8eck7JED)
 * [August 2023 KB5029263](https://youtu.be/GJ6PhQzqNjM?si=7WDQb2LWk2JX833s)
@@ -30,5 +31,6 @@ My voice over work for the videos that highlight the key improvements that are i
 ## Medical Writing
 
 * [Informed consent form](SRoseInformedConsentMedWritingSample.pdf) (for mock clinical trial)
+* [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf)
 
 Copyright 2024 [Shellyann A. Rose](https://www.linkedin.com/in/shellyann-rose-235624/)
