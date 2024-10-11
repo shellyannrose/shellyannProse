@@ -30,6 +30,8 @@ My voice over work for the videos that highlight the key improvements that are i
 
 ## Medical Writing
 
+![Member of the American Medical Writers Assocation](proudmember2024_AMWA.jpg)
+
 * [Informed consent form](SRoseInformedConsentMedWritingSample.pdf) (for mock clinical trial at the University of the Sciences in Philadelphia)
 * [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf)
 * [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical editing)
