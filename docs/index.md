@@ -39,5 +39,6 @@ My voice over work for the videos that highlight the key improvements that are i
 * [Informed consent form](SRoseInformedConsentMedWritingSample.pdf) (for mock clinical trial at the University of the Sciences in Philadelphia)
 * [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf)
 * [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical editing)
+* Abstract for research paper, [Sleep gremlins: heterocyclic amines and insomnia](HCA_researchpaper_abstract.pdf)
 
 Copyright 2024 [Shellyann A. Rose](https://www.linkedin.com/in/shellyann-rose-235624/)
