@@ -23,6 +23,10 @@ My voice over work for the videos that highlight the key improvements that are i
 * [November 2022 KB5019980](https://youtu.be/srJjdxw6Gi0?si=sNkWjCuW8eck7JED)
 * [August 2023 KB5029263](https://youtu.be/GJ6PhQzqNjM?si=7WDQb2LWk2JX833s)
 
+### User experience design
+
+[Mobile app project called "Gabbi."](SRose_MobileAppProject_StayConnected.pdf) Microsoft PowerPoint presentation at General Assembly. Tools used: Sketch, Balsamiq, and InVision.
+
 ### API documentation
 
 * [The Gracious Host Service](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/) (mock REST API documentation)
