@@ -25,7 +25,7 @@ My voice over work for the videos that highlight the key improvements that are i
 
 ### User experience design
 
-[Mobile app project called "Gabbi."](SRose_MobileAppProject_StayConnected.pdf) Microsoft PowerPoint presentation at General Assembly. Tools used: Sketch, Balsamiq, and InVision.
+* Presentation for [mobile app project called "Gabbi."](SRose_MobileAppProject_StayConnected.pdf) Tools used: Sketch, Balsamiq, and InVision.
 
 ### API documentation
 
@@ -40,5 +40,6 @@ My voice over work for the videos that highlight the key improvements that are i
 * [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf)
 * [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical editing)
 * Abstract for research paper, [Sleep gremlins: heterocyclic amines and insomnia](HCA_researchpaper_abstract.pdf)
+* Presentation for [Insomnia: The Unusual Suspects](BW890_SRose_Insomnia-1.pdf)
 
 Copyright 2024 [Shellyann A. Rose](https://www.linkedin.com/in/shellyann-rose-235624/)
