@@ -6,6 +6,9 @@ What I have always loved about my work is that I get to learn new things each da
 
 ## Technical Writing
 
+* [February 11, 2025—KB5051987 (OS Build 26100.3194)](https://support.microsoft.com/en-us/topic/february-11-2025-kb5051987-os-build-26100-3194-63fb007d-3f52-4b47-85ea-28414a24be2d)
+* [January 28, 2025—KB5050094 (OS Build 26100.3037) Preview](https://support.microsoft.com/en-us/topic/january-28-2025-kb5050094-os-build-26100-3037-preview-78fda0ea-79e9-468d-8a77-de7914ca1aef)
+* [November 21, 2024—KB5046740 (OS Build 26100.2454) Preview](https://support.microsoft.com/en-us/topic/november-21-2024-kb5046740-os-build-26100-2454-preview-2040f716-b719-482a-8aff-f7f02c79b147)
 * [February 29, 2024—Windows configuration update](https://support.microsoft.com/en-us/topic/february-29-2024-windows-configuration-update-aa44c0db-02a3-4161-bf06-e3c03a5f162e)
 * [September 26, 2023—Windows configuration update](https://support.microsoft.com/en-us/topic/september-26-2023-windows-configuration-update-542780c2-594c-46cb-979d-11116fe164ba)
 * [May 24, 2023—Windows configuration update](https://support.microsoft.com/en-us/topic/may-24-2023-windows-configuration-update-cae8524a-4b62-4d38-bb67-f070bd282fff)
