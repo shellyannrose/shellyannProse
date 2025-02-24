@@ -6,6 +6,10 @@ What I have always loved about my work is that I get to learn new things each da
 
 ## Technical Writing
 
+Purpose: knowledgebase (KB) articles for the fixes and new features in the Windows operating system (OS).<br/>
+Partners: release management, product managers, software engineers, customer support <br/>
+Key tools: docs-as-code, GitHub, Office 365 (MS Word, Excel), JSON, XML, Agile, Microsoft Style Guide, Flesch–Kincaid readability scores<br/>
+
 * [February 11, 2025—KB5051987 (OS Build 26100.3194)](https://support.microsoft.com/en-us/topic/february-11-2025-kb5051987-os-build-26100-3194-63fb007d-3f52-4b47-85ea-28414a24be2d)
 * [January 28, 2025—KB5050094 (OS Build 26100.3037) Preview](https://support.microsoft.com/en-us/topic/january-28-2025-kb5050094-os-build-26100-3037-preview-78fda0ea-79e9-468d-8a77-de7914ca1aef)
 * [November 21, 2024—KB5046740 (OS Build 26100.2454) Preview](https://support.microsoft.com/en-us/topic/november-21-2024-kb5046740-os-build-26100-2454-preview-2040f716-b719-482a-8aff-f7f02c79b147)
@@ -20,7 +24,7 @@ What I have always loved about my work is that I get to learn new things each da
 
 ### Voice over
 
-My voice over work for the videos that highlight the key improvements that are in the release notes knowledgebase articles.
+My voice over work for the videos that highlight the key improvements that are in the KB articles.
 
 * [June 2022 KB5014697](https://support.microsoft.com/en-us/topic/june-14-2022-kb5014697-os-build-22000-739-cd3aaa0b-a8da-44a0-a778-dfb6f1d9ea11)
 * [November 2022 KB5019980](https://youtu.be/srJjdxw6Gi0?si=sNkWjCuW8eck7JED)
@@ -28,23 +32,23 @@ My voice over work for the videos that highlight the key improvements that are i
 
 ### User experience design
 
-* Presentation for [mobile app project called "Gabbi."](SRose_MobileAppProject_StayConnected.pdf) Tools used: Sketch, Balsamiq, and InVision.
+* Presentation for [mobile app project called "Gabbi."](SRose_MobileAppProject_StayConnected.pdf) Key tools: Sketch, Balsamiq, and InVision
 
 ### API documentation
 
 * [The Gracious Host Service](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/) (mock REST API documentation)
 * Learn about my 2024 API documentation class [experience](UWAPIjourney.md) at the University of Washington
 
-## Medical Writing
+## Biomedical Writing
 
 ![Member of the American Medical Writers Assocation](proudmember2024_AMWA.jpg)
 
 [Member of the Regulatory Affairs Professionals Society](https://www.raps.org/)
 
-* [Informed consent form](SRoseInformedConsentMedWritingSample.pdf) (for mock clinical trial at the University of the Sciences in Philadelphia)
+* [Informed consent form](SRoseInformedConsentMedWritingSample.pdf) (for mock clinical trial at Saint Joseph's University (formerly the University of the Sciences in Philadelphia))
 * [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf)
 * [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical editing)
 * Abstract for research paper, [Sleep gremlins: heterocyclic amines and insomnia](HCA_researchpaper_abstract.pdf)
 * Presentation for [Insomnia: The Unusual Suspects](BW890_SRose_Insomnia-1.pdf)
 
-Copyright 2024 [Shellyann A. Rose](https://www.linkedin.com/in/shellyann-rose-235624/)
+Copyright 2025 [Shellyann A. Rose](https://www.linkedin.com/in/shellyann-rose-235624/)
