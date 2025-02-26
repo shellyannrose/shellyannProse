@@ -6,7 +6,7 @@ What I have always loved about my work is that I get to learn new things each da
 
 ## Technical writing
 
-Knowledgebase (KB) articles for the release notes (fixes and new features) in the Windows operating system (OS). Cross-functional partners: release management, product managers, software engineers, customer support. Key tools: docs-as-code, GitHub, Office 365 (MS Word, Excel), JSON, XML, Agile, Microsoft Style Guide, Flesch–Kincaid readability scores<br/>
+Knowledgebase (KB) articles for the release notes (fixes and new features) in the Windows operating system (OS). Cross-functional partners: release management, product managers, software engineers, customer support. Key tools: docs-as-code, GitHub, Office 365 (MS Word, Excel), JSON, XML, Agile, Microsoft Style Guide, Flesch–Kincaid readability scores
 
 * [February 11, 2025—KB5051987 (OS Build 26100.3194)](https://support.microsoft.com/en-us/topic/february-11-2025-kb5051987-os-build-26100-3194-63fb007d-3f52-4b47-85ea-28414a24be2d)
 * [January 28, 2025—KB5050094 (OS Build 26100.3037) Preview](https://support.microsoft.com/en-us/topic/january-28-2025-kb5050094-os-build-26100-3037-preview-78fda0ea-79e9-468d-8a77-de7914ca1aef)
