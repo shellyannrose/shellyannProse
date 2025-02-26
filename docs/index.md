@@ -4,10 +4,10 @@
 
 What I have always loved about my work is that I get to learn new things each day. It keeps my mind active and challenged and makes life interesting. Then I get to share what I learn so others can have that same positive experience. To me, good writing is really about two minds having a chat. My job is to actively listen to what my audience needs. Then provide clear, simple, readable prose in response. Achieving that with complex topics always gives me such a rush!
 
-## Technical Writing
+## Technical writing
 
-Purpose: knowledgebase (KB) articles for the fixes and new features in the Windows operating system (OS).<br/>
-Partners: release management, product managers, software engineers, customer support <br/>
+Knowledgebase (KB) articles for the release notes (fixes and new features) in the Windows operating system (OS).<br/>
+Cross-functional partners: release management, product managers, software engineers, customer support <br/>
 Key tools: docs-as-code, GitHub, Office 365 (MS Word, Excel), JSON, XML, Agile, Microsoft Style Guide, Flesch–Kincaid readability scores<br/>
 
 * [February 11, 2025—KB5051987 (OS Build 26100.3194)](https://support.microsoft.com/en-us/topic/february-11-2025-kb5051987-os-build-26100-3194-63fb007d-3f52-4b47-85ea-28414a24be2d)
@@ -39,16 +39,16 @@ My voice over work for the videos that highlight the key improvements that are i
 * [The Gracious Host Service](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/) (mock REST API documentation)
 * Learn about my 2024 API documentation class [experience](UWAPIjourney.md) at the University of Washington
 
-## Biomedical Writing
+## Biomedical writing
+
+* [Informed consent form](SRoseInformedConsentMedWritingSample.pdf)  - Patient consent form for a mock clinical trial at Saint Joseph's University (formerly the University of the Sciences in Philadelphia)
+* [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf) - Chain of identity (COI) label SOP
+* [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical editing)
+* [Sleep gremlins: heterocyclic amines and insomnia](HCA_researchpaper_abstract.pdf)  - An abstract of my paper on human exposure to heterocyclic amines (HCAs). Key tools: Ovid, the Cochrane Database of Systematic Reviews, and PubMed; cited 110 clinical articles
+* [Insomnia: The Unusual Suspects](BW890_SRose_Insomnia-1.pdf)  - Slide deck on my insomnia research paper. Key tools: PubMed, Microsoft PowerPoint
 
 ![Member of the American Medical Writers Assocation](proudmember2024_AMWA.jpg)
 
 [Member of the Regulatory Affairs Professionals Society](https://www.raps.org/)
-
-* [Informed consent form](SRoseInformedConsentMedWritingSample.pdf) (for mock clinical trial at Saint Joseph's University (formerly the University of the Sciences in Philadelphia))
-* [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf)
-* [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical editing)
-* Abstract for research paper, [Sleep gremlins: heterocyclic amines and insomnia](HCA_researchpaper_abstract.pdf)
-* Presentation for [Insomnia: The Unusual Suspects](BW890_SRose_Insomnia-1.pdf)
 
 Copyright 2025 [Shellyann A. Rose](https://www.linkedin.com/in/shellyann-rose-235624/)
