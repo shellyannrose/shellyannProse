@@ -39,6 +39,7 @@ My voice over work for the videos that highlight the key improvements that are i
 
 ## Biomedical writing
 
+* [Infographic](Infographic_diet_to_reduce_cancer_risk.jpg) - Reducing cancer risk through diet. Key tools: Canva
 * [Informed consent form](SRoseInformedConsentMedWritingSample.pdf)  - Patient consent form for a mock clinical trial at Saint Joseph's University (formerly the University of the Sciences in Philadelphia)
 * [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf) - Chain of identity (COI) label SOP
 * [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical editing)
