@@ -6,7 +6,7 @@ What I have always loved about my work is that I get to learn new things each da
 
 ## Technical writing
 
-Knowledgebase (KB) articles for the release notes (fixes and new features) in the Windows operating system (OS). Cross-functional partners: release management, product managers, software engineers, customer support. Key tools: docs-as-code, GitHub, Office 365 (MS Word, Excel), JSON, XML, Agile, Microsoft Style Guide, Flesch–Kincaid readability scores
+Knowledgebase (KB) articles for the release notes (fixes and new features) in the Windows operating system (OS). Cross-functional partners: release management, product managers, software engineers, customer support. Tools: docs-as-code, GitHub, Office 365 (MS Word, Excel), JSON, XML, Agile, Microsoft Style Guide, Flesch–Kincaid readability scores
 
 * [February 11, 2025—KB5051987 (OS Build 26100.3194)](https://support.microsoft.com/en-us/topic/february-11-2025-kb5051987-os-build-26100-3194-63fb007d-3f52-4b47-85ea-28414a24be2d)
 * [January 28, 2025—KB5050094 (OS Build 26100.3037) Preview](https://support.microsoft.com/en-us/topic/january-28-2025-kb5050094-os-build-26100-3037-preview-78fda0ea-79e9-468d-8a77-de7914ca1aef)
@@ -30,7 +30,7 @@ My voice over work for the videos that highlight the key improvements that are i
 
 ### User experience design
 
-* Presentation for [mobile app project called "Gabbi."](SRose_MobileAppProject_StayConnected.pdf) Key tools: Sketch, Balsamiq, and InVision
+* Presentation for [mobile app project called "Gabbi."](SRose_MobileAppProject_StayConnected.pdf) Tools: Sketch, Balsamiq, and InVision
 
 ### API documentation
 
@@ -39,12 +39,13 @@ My voice over work for the videos that highlight the key improvements that are i
 
 ## Biomedical writing
 
-* [Infographic](Infographic_diet_to_reduce_cancer_risk.jpg) - Reducing cancer risk through diet. Key tools: Canva
+* [Cystic fibrosis](https://www.canva.com/design/DAGgbYsD9oo/Jb4dBAXLez3OnPuoIf11sg/view?utm_content=DAGgbYsD9oo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c19dd43ea)  - Slide deck that summarizes PubMed research article on cystic fibrosis. Audience: health care providers. Tools: PubMed, Canva.
+* [Infographic](Infographic_diet_to_reduce_cancer_risk.jpg) - Reducing cancer risk through diet. Audience: patients. Tool: Canva.
 * [Informed consent form](SRoseInformedConsentMedWritingSample.pdf)  - Patient consent form for a mock clinical trial at Saint Joseph's University (formerly the University of the Sciences in Philadelphia)
 * [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf) - Chain of identity (COI) label SOP
 * [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical editing)
-* [Sleep gremlins: heterocyclic amines and insomnia](HCA_researchpaper_abstract.pdf)  - An abstract of my paper on human exposure to heterocyclic amines (HCAs). Key tools: Ovid, the Cochrane Database of Systematic Reviews, and PubMed; cited 110 clinical articles
-* [Insomnia: The Unusual Suspects](BW890_SRose_Insomnia-1.pdf)  - Slide deck on my insomnia research paper. Key tools: PubMed, Microsoft PowerPoint
+* [Sleep gremlins: heterocyclic amines and insomnia](HCA_researchpaper_abstract.pdf)  - An abstract of my paper on human exposure to heterocyclic amines (HCAs). Tools: Ovid, the Cochrane Database of Systematic Reviews, and PubMed; cited 110 clinical articles, Microsoft Word
+* [Insomnia: The Unusual Suspects](BW890_SRose_Insomnia-1.pdf)  - Slide deck on my insomnia research paper. Tools: PubMed, Microsoft PowerPoint
 
 ![Member of the American Medical Writers Assocation](proudmember2024_AMWA.jpg)
 
