@@ -28,7 +28,7 @@ My voice over work for the videos that highlight the key improvements that are i
 * [November 2022 KB5019980](https://youtu.be/srJjdxw6Gi0?si=sNkWjCuW8eck7JED)
 * [August 2023 KB5029263](https://youtu.be/GJ6PhQzqNjM?si=7WDQb2LWk2JX833s)
 
-### User experience design
+### User experience (UX) design
 
 * Presentation for [mobile app project called "Gabbi."](SRose_MobileAppProject_StayConnected.pdf) Tools: Sketch, Balsamiq, and InVision
 
