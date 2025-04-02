@@ -43,7 +43,7 @@ My voice over work for the videos that highlight the key improvements that are i
 * [Infographic](Infographic_diet_to_reduce_cancer_risk.jpg) - Reducing cancer risk through diet. Audience: patients. Tool: Canva.
 * [Informed consent form](SRoseInformedConsentMedWritingSample.pdf)  - Patient consent form for a mock clinical trial at Saint Joseph's University (formerly the University of the Sciences in Philadelphia)
 * [Standard operating procedure (SOP)](SRose_SOP_Sample.pdf) - Chain of identity (COI) label SOP
-* [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical editing)
+* [Continuing medical education (CME) on colorectal cancer](SRose_CRC_LearningModule1.pdf) (medical education writing)
 * [Sleep gremlins: heterocyclic amines and insomnia](HCA_researchpaper_abstract.pdf)  - An abstract of my paper on human exposure to heterocyclic amines (HCAs). Tools: Ovid, the Cochrane Database of Systematic Reviews, and PubMed; cited 110 clinical articles, Microsoft Word
 * [Insomnia: The Unusual Suspects](BW890_SRose_Insomnia-1.pdf)  - Slide deck on my insomnia research paper. Tools: PubMed, Microsoft PowerPoint
 

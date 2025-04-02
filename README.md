@@ -1,3 +1,3 @@
 # shellyannProse
 
-Shellyann A. Rose work portfolio site.
+Shellyann A. Rose technical and biomedical writing portfolio site.
