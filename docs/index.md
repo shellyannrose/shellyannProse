@@ -35,10 +35,12 @@ My voice over work for the videos that highlight the key improvements that are i
 ### API documentation
 
 * [The Gracious Host Service](https://shellyannrose.github.io/warm-welcome-home-swap-hosting/) (mock REST API documentation)
-* Learn about my 2024 API documentation class [experience](UWAPIjourney.md) at the University of Washington
+* Learn about my 2024 API documentation class [experience](UWAPIjourney.md) at the University of Washington (UW)
 
 ## Biomedical writing
 
+* [Lean authoring of Investigator's Brochure (IB)](SRose_Assignment%205_Streamlining%20the%20IB_originalwTrackChanges.pdf)- regulatory writing assignment at UW (2025) using the IB for BNT162/PF-07302048
+* [Plain language for informed consent form](SRose_Assignment%206_Translating%20the%20Protocol%20into%20an%20Informed%20Consent%20Form_using%20NCT04571060%20Protocol.pdf) - regulatory writing assignment at UW (2025) using the protocol for NCT04571060
 * [Cystic fibrosis](https://www.canva.com/design/DAGgbYsD9oo/Jb4dBAXLez3OnPuoIf11sg/view?utm_content=DAGgbYsD9oo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c19dd43ea)  - Slide deck that summarizes PubMed research article on cystic fibrosis. Audience: health care providers. Tools: PubMed, Canva.
 * [Infographic](Infographic_diet_to_reduce_cancer_risk.jpg) - Reducing cancer risk through diet. Audience: patients. Tool: Canva.
 * [Informed consent form](SRoseInformedConsentMedWritingSample.pdf)  - Patient consent form for a mock clinical trial at Saint Joseph's University (formerly the University of the Sciences in Philadelphia)
