@@ -39,8 +39,12 @@ My voice over work for the videos that highlight the key improvements that are i
 
 ## Biomedical writing
 
-* [Lean authoring of Investigator's Brochure (IB): Edited](SRose_Assignment%205_Streamlining%20the%20IB_EditedVersion.pdf) - regulatory writing assignment at UW (2025) to update and streamline sections 2 and 3.4 and list subsections in section 6 that are candidates for streamlining; source: IB for BNT162/PF-07302048
-* [Plain language for informed consent form](SRose_Assignment%206_Translating%20the%20Protocol%20into%20an%20Informed%20Consent%20Form_using%20NCT04571060%20Protocol.pdf) - regulatory writing assignment at UW (2025) to add content to sections 1-5 of the NIH ICF template; source: protocol for NCT04571060
+* Lean authoring regulatory writing assignment at UW (2025) to update and streamline sections 2 and 3.4 and list subsections in section 6 that are candidates for streamlining; source: IB for BNT162/PF-07302048O (COVID-19 vaccine)
+    * [Original with tracked changes](SRose_Assignment%205_Streamlining%20the%20IB_originalwTrackChanges.pdf)
+
+    * [Edited version](SRose_Assignment%205_Streamlining%20the%20IB_EditedVersion.pdf)
+
+* [Plain language for informed consent form](SRose_Assignment%206_Translating%20the%20Protocol%20into%20an%20Informed%20Consent%20Form_using%20NCT04571060%20Protocol.pdf) - regulatory writing assignment at UW (2025) to add content to sections 1-5 of the NIH ICF template; source: protocol for NCT04571060 (zavegepant (migraine drug))
 * [Cystic fibrosis](https://www.canva.com/design/DAGgbYsD9oo/Jb4dBAXLez3OnPuoIf11sg/view?utm_content=DAGgbYsD9oo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c19dd43ea)  - Slide deck that summarizes PubMed research article on cystic fibrosis. Audience: health care providers. Tools: PubMed, Canva.
 * [Infographic](Infographic_diet_to_reduce_cancer_risk.jpg) - Reducing cancer risk through diet. Audience: patients. Tool: Canva.
 * [Informed consent form](SRoseInformedConsentMedWritingSample.pdf)  - Patient consent form for a mock clinical trial at Saint Joseph's University (formerly the University of the Sciences in Philadelphia)
