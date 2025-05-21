@@ -39,6 +39,8 @@ My voice over work for the videos that highlight the key improvements that are i
 
 ## Biomedical writing
 
+* [Interpreting statistical data](SRose_Assignment%204_Interpreting%20Statistical%20Data.pdf) - regulatory writing assignment at UW (2025) to translate statistical data from tables, listings, and figures into narrative descriptions suitable for regulatory documents; source: Phase 2/3 study of zavegepant (NCT03872453)
+
 * Lean authoring regulatory writing assignment at UW (2025) to update and streamline sections 2 and 3.4 and list subsections in section 6 that are candidates for streamlining; source: IB for BNT162/PF-07302048O (COVID-19 vaccine)
     * [Original with tracked changes](SRose_Assignment%205_Streamlining%20the%20IB_originalwTrackChanges.pdf)
 
