@@ -2,16 +2,15 @@
 
 ## [About me](https://www.linkedin.com/in/shellyann-rose-235624/)
 
-What I have always loved about my work is that I get to learn new things each day. It keeps my mind active and challenged, and makes life interesting. Then I get to share what I learn so others can have the same positive experience. To me, good writing is really about two minds having a chat. My job is to listen actively to what my audience needs. Then provide clear, simple, readable prose in response. Achieving that with complex topics always gives me such a rush!
+What I have always loved about my work is that I get to learn new things each day. It keeps my mind active and challenged and makes life interesting. Then I get to share what I learn so others can have the same positive experience. To me, good writing is really about two minds having a chat. My job is to listen actively to what my audience needs. Then provide clear, simple, readable prose in response. Achieving that with complex topics always gives me such a rush!
 
 ## Biomedical writing
 
 * [Interpreting statistical data](SRose_Assignment%204_Interpreting%20Statistical%20Data.pdf) - regulatory writing assignment at UW (2025) to translate statistical data from tables, listings, and figures into narrative descriptions suitable for regulatory documents; source: Phase 2/3 study of zavegepant (NCT03872453)
 
 * Lean authoring regulatory writing assignment at UW (2025) to update and streamline sections 2 and 3.4 and list subsections in section 6 that are candidates for streamlining; source: IB for BNT162/PF-07302048O (COVID-19 vaccine)
-    * [Original with tracked changes](SRose_Assignment%205_Streamlining%20the%20IB_originalwTrackChanges.pdf)
-
-    * [Edited version](SRose_Assignment%205_Streamlining%20the%20IB_EditedVersion.pdf)
+  * [Original with tracked changes](SRose_Assignment%205_Streamlining%20the%20IB_originalwTrackChanges.pdf)
+  * [Edited version](SRose_Assignment%205_Streamlining%20the%20IB_EditedVersion.pdf)
 
 * [Plain language for informed consent form](SRose_Assignment%206_Translating%20the%20Protocol%20into%20an%20Informed%20Consent%20Form_using%20NCT04571060%20Protocol.pdf) - regulatory writing assignment at UW (2025) to add content to sections 1-5 of the NIH ICF template; source: protocol for NCT04571060 (zavegepant (migraine drug))
 * [Cystic fibrosis](https://www.canva.com/design/DAGgbYsD9oo/Jb4dBAXLez3OnPuoIf11sg/view?utm_content=DAGgbYsD9oo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c19dd43ea)  - Slide deck that summarizes PubMed research article on cystic fibrosis. Audience: health care providers. Tools: PubMed, Canva.
